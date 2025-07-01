@@ -11,7 +11,7 @@ export default function Navbar() {
           <NavLink to="/classify">Classifier</NavLink>
         </li>
         <li>
-          <a href="https://github.com/yourusername/prose-poetry-classifier" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/zaky121/prose-poetry-classifier" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
         </li>
